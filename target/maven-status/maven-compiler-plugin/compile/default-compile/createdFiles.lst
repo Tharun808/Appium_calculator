@@ -1,0 +1,11 @@
+Screens\TempScreen.class
+Screens\ConverterScreen.class
+Screens\CurrencyScreen.class
+Screens\TimeScreen.class
+Screens\VolumeScreen.class
+Screens\SpeedScreen.class
+Screens\LengthScreen.class
+Screens\AreaScreen.class
+Screens\NumeralsystemScreen.class
+Screens\LandingScreen.class
+Screens\MassScreen.class

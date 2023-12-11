@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="18" passed="18" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-12-11T11:14:46 IST" name="Surefire suite" finished-at="2023-12-11T11:17:54 IST" duration-ms="187865">
+    <groups>
+    </groups>
+    <test started-at="2023-12-11T11:14:46 IST" name="Surefire test" finished-at="2023-12-11T11:17:54 IST" duration-ms="187865">
+      <class name="TestRunner.TestRunner">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:TestRunner.TestRunner@4e31276e]" started-at="2023-12-11T11:14:46 IST" name="setUp" finished-at="2023-12-11T11:14:57 IST" duration-ms="10388" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method is-config="true" signature="Agree()[pri:0, instance:TestRunner.TestRunner@4e31276e]" started-at="2023-12-11T11:14:57 IST" name="Agree" finished-at="2023-12-11T11:15:01 IST" depends-on-methods="Base.setup.setUp" duration-ms="3982" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Agree -->
+        <test-method signature="Addition()[pri:1, instance:TestRunner.TestRunner@4e31276e]" started-at="2023-12-11T11:15:01 IST" name="Addition" finished-at="2023-12-11T11:15:10 IST" duration-ms="9046" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Addition -->
+        <test-method signature="Substraction()[pri:2, instance:TestRunner.TestRunner@4e31276e]" started-at="2023-12-11T11:15:10 IST" name="Substraction" finished-at="2023-12-11T11:15:18 IST" duration-ms="8139" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Substraction -->
+        <test-method signature="Multiplication()[pri:3, instance:TestRunner.TestRunner@4e31276e]" started-at="2023-12-11T11:15:18 IST" name="Multiplication" finished-at="2023-12-11T11:15:27 IST" duration-ms="9301" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Multiplication -->
+        <test-method signature="Division()[pri:4, instance:TestRunner.TestRunner@4e31276e]" started-at="2023-12-11T11:15:27 IST" name="Division" finished-at="2023-12-11T11:15:39 IST" duration-ms="11378" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Division -->
+        <test-method signature="Logarith()[pri:5, instance:TestRunner.TestRunner@4e31276e]" started-at="2023-12-11T11:15:39 IST" name="Logarith" finished-at="2023-12-11T11:15:51 IST" duration-ms="12181" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Logarith -->
+        <test-method signature="ln()[pri:6, instance:TestRunner.TestRunner@4e31276e]" started-at="2023-12-11T11:15:51 IST" name="ln" finished-at="2023-12-11T11:15:58 IST" duration-ms="6987" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ln -->
+        <test-method signature="Sine()[pri:7, instance:TestRunner.TestRunner@4e31276e]" started-at="2023-12-11T11:15:58 IST" name="Sine" finished-at="2023-12-11T11:16:03 IST" duration-ms="5239" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Sine -->
+        <test-method signature="Cosine()[pri:8, instance:TestRunner.TestRunner@4e31276e]" started-at="2023-12-11T11:16:03 IST" name="Cosine" finished-at="2023-12-11T11:16:10 IST" duration-ms="7224" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Cosine -->
+        <test-method signature="Tangent()[pri:9, instance:TestRunner.TestRunner@4e31276e]" started-at="2023-12-11T11:16:10 IST" name="Tangent" finished-at="2023-12-11T11:16:16 IST" duration-ms="5543" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Tangent -->
+        <test-method signature="CelsiusToFahrenheit()[pri:10, instance:TestRunner.TestRunner@4e31276e]" started-at="2023-12-11T11:16:16 IST" name="CelsiusToFahrenheit" finished-at="2023-12-11T11:16:29 IST" duration-ms="13558" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CelsiusToFahrenheit -->
+        <test-method signature="CurrencyConvert()[pri:11, instance:TestRunner.TestRunner@4e31276e]" started-at="2023-12-11T11:16:29 IST" name="CurrencyConvert" finished-at="2023-12-11T11:16:40 IST" duration-ms="10507" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CurrencyConvert -->
+        <test-method signature="Area_Convert()[pri:12, instance:TestRunner.TestRunner@4e31276e]" started-at="2023-12-11T11:16:40 IST" name="Area_Convert" finished-at="2023-12-11T11:16:51 IST" duration-ms="11172" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Area_Convert -->
+        <test-method signature="Meter_Centi_met()[pri:13, instance:TestRunner.TestRunner@4e31276e]" started-at="2023-12-11T11:16:51 IST" name="Meter_Centi_met" finished-at="2023-12-11T11:17:01 IST" duration-ms="10275" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Meter_Centi_met -->
+        <test-method signature="Kilo_to_Gram()[pri:14, instance:TestRunner.TestRunner@4e31276e]" started-at="2023-12-11T11:17:01 IST" name="Kilo_to_Gram" finished-at="2023-12-11T11:17:12 IST" duration-ms="10310" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Kilo_to_Gram -->
+        <test-method signature="Decimal_to_binary()[pri:15, instance:TestRunner.TestRunner@4e31276e]" started-at="2023-12-11T11:17:12 IST" name="Decimal_to_binary" finished-at="2023-12-11T11:17:21 IST" duration-ms="9285" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Decimal_to_binary -->
+        <test-method signature="Met_per_sec_to_Kmps()[pri:16, instance:TestRunner.TestRunner@4e31276e]" started-at="2023-12-11T11:17:21 IST" name="Met_per_sec_to_Kmps" finished-at="2023-12-11T11:17:33 IST" duration-ms="12050" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Met_per_sec_to_Kmps -->
+        <test-method signature="Minutes_to_Seconds()[pri:17, instance:TestRunner.TestRunner@4e31276e]" started-at="2023-12-11T11:17:33 IST" name="Minutes_to_Seconds" finished-at="2023-12-11T11:17:45 IST" duration-ms="12372" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Minutes_to_Seconds -->
+        <test-method signature="CubicMeter_to_CubicCentimeter()[pri:18, instance:TestRunner.TestRunner@4e31276e]" started-at="2023-12-11T11:17:45 IST" name="CubicMeter_to_CubicCentimeter" finished-at="2023-12-11T11:17:53 IST" duration-ms="7690" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CubicMeter_to_CubicCentimeter -->
+        <test-method is-config="true" signature="close()[pri:0, instance:TestRunner.TestRunner@4e31276e]" started-at="2023-12-11T11:17:53 IST" name="close" finished-at="2023-12-11T11:17:54 IST" duration-ms="988" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- TestRunner.TestRunner -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
